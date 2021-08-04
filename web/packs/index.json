@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "bttv.json"
+  ],
+  "homeserver_url": "https://matrix.paulcolusso.com"
+}
